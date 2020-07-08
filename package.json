@@ -1,15 +1,16 @@
 {
     "name": "@bradgarropy/plop-pack-actions",
-    "version": "0.0.1",
-    "description": "<description>",
+    "version": "0.0.2",
+    "description": "💧 plop action pack",
     "keywords": [
         "plop",
         "plop-pack",
+        "plop-action",
         "action-type"
     ],
-    "homepage": "<url>",
+    "homepage": "https://www.npmjs.com/package/@bradgarropy/plop-pack-actions",
     "bugs": {
-        "url": "https://github.com/bradgarropy/<repo>/issues"
+        "url": "https://github.com/bradgarropy/plop-pack-actions/issues"
     },
     "license": "MIT",
     "author": {
@@ -20,7 +21,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/<repo>"
+        "url": "https://github.com/bradgarropy/plop-pack-actions"
     },
     "scripts": {},
     "dependencies": {},

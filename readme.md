@@ -1,4 +1,4 @@
-# 💧 plop-pack-actions
+## 💧 plop-pack-actions
 
 <a href="https://npmjs.com/package/@bradgarropy/plop-pack-actions">
     <img alt="npm" src="https://img.shields.io/npm/v/@bradgarropy/plop-pack-actions.svg?style=flat-square">
@@ -10,9 +10,7 @@
 
 _A collection of [plop][plop] actions to make your life easier._
 
----
-
-## 📦 Installation
+### 📦 Installation
 
 This package is installable from [npm][npm].
 
@@ -20,7 +18,7 @@ This package is installable from [npm][npm].
 npm install --save-dev @bradgarropy/plop-pack-actions
 ```
 
-## 🥑 Usage
+### 🥑 Usage
 
 Before you can use the `plop-pack`, you have to load it into the `plop` object.
 
@@ -32,7 +30,7 @@ Once loaded, you now have access the following actions.
 
 `copy`
 
-## ❔ Questions
+### ❔ Questions
 
 If you have any trouble, definitely [open an issue][issue] and I'll take a look.
 

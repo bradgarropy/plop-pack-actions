@@ -14,7 +14,7 @@ _A collection of [plop][plop] actions to make your life easier._
 
 This package is installable from [npm][npm].
 
-```
+```bash
 npm install --save-dev @bradgarropy/plop-pack-actions
 ```
 
@@ -22,13 +22,23 @@ npm install --save-dev @bradgarropy/plop-pack-actions
 
 Before you can use the `plop-pack`, you have to load it into the `plop` object.
 
-```
+```javascript
 plop.load("@bradgarropy/plop-pack-actions")
 ```
 
 Once loaded, you now have access the following actions.
 
-`copy`
+#### `copy`
+
+Copies a file from a source path to a destination path.
+
+```javascript
+{
+    type: "copy",
+    src: "templates/default.jpg",
+    dest: "my-blog-post/images/default.jpg"
+}
+```
 
 ### ❔ Questions
 

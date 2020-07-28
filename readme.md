@@ -42,12 +42,12 @@ Copies a file from a source path to a destination path.
 
 ### ❔ Questions
 
-If you have any trouble, definitely [open an issue][issue] and I'll take a look.
-
-If all else fails, you can ask me directly on [Twitter][twitter] or my [AMA][ama].
+🐛 report bugs by filing [issues][issues]  
+📢 provide feedback with [issues][issues] or on [twitter][twitter]  
+🙋🏼‍♂️ use my [ama][ama] or [twitter][twitter] to ask any other questions
 
 [plop]: https://plopjs.com
 [npm]: https://npmjs.com
-[issue]: https://github.com/bradgarropy/plop-pack-actions/issues
+[issues]: https://github.com/bradgarropy/plop-pack-actions/issues
 [twitter]: https://twitter.com/bradgarropy
 [ama]: https://github.com/bradgarropy/ama
